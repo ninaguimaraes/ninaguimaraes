@@ -1,4 +1,6 @@
-## Olá, sou Nina Guimarães e é um prazer ter você aqui!
+# Olá, sou Nina Guimarães e é um prazer ter você aqui!
+
+Sou Engenheira Química e de Segurança do Trabalho, em processo de migração de carreira para a área de Dados. 
 
 <div>
     <a href="https://instagram.com/ninaguima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
